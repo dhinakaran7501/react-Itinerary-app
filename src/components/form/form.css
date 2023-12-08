@@ -1,0 +1,46 @@
+.form form {
+  background-color: #e5771f;
+  padding: 1.2rem 0;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 13px;
+}
+.form h3 {
+  color: #5a3e2b;
+  font-size: 22px;
+}
+input,
+select,
+button {
+  background-color: #ffebb3;
+  border: none;
+  color: #5a3e2b;
+  cursor: pointer;
+}
+.count select {
+  padding: 12px 22px;
+  border-radius: 13px;
+  font-weight: bold;
+  font-size: 16.5px;
+}
+.input input {
+  padding: 12px 15px;
+  border-radius: 13px;
+  border: 1px solid;
+  width: 236px;
+  font-size: 17px;
+  font-weight: 600;
+  color: #5a3e2b;
+}
+.button button {
+  background-color: #76c7ad;
+  border-radius: 13px;
+  border: 1px solid;
+  font-size: 17px;
+  font-weight: 600;
+  color: #3d3129;
+  font-family: inherit;
+  padding: 12px 24px;
+}

@@ -1,0 +1,33 @@
+.products {
+  list-style: none;
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  color: beige;
+}
+.show {
+  display: block;
+}
+.hidden {
+  display: none;
+}
+input[type="checkbox"] {
+  accent-color: blue;
+  height: 21px;
+  width: 2rem;
+}
+.products button {
+  background-color: transparent;
+  border: 1px solid;
+}
+.products div {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+.strike {
+  text-decoration: line-through;
+}
+.unstrike {
+  text-decoration: none;
+}

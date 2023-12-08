@@ -1,0 +1,44 @@
+.list {
+  background-color: #5a3e2b;
+  padding: 3rem 0;
+  height: 44%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-direction: column;
+}
+.list .buttons {
+  display: flex;
+  align-items: center;
+  width: 42%;
+  justify-content: space-evenly;
+}
+.list select {
+  padding: 9px 31px;
+  border-radius: 13px;
+  font-weight: bold;
+  font-size: 15px;
+  font-family: inherit;
+  text-transform: uppercase;
+}
+.list .buttons button {
+  padding: 9px 23px;
+  border-radius: 13px;
+  font-weight: bold;
+  font-size: 15px;
+  font-family: inherit;
+  text-transform: uppercase;
+}
+.list .items {
+  width: 70%;
+  max-height: 83%;
+  overflow: scroll;
+}
+.list .items ul {
+  width: 100%;
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  row-gap: 26px;
+  padding: 17px 0px;
+  /* overflow: scroll; */
+}
