@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-Itinerary-app/static/css/main.eab3724d.css",
+    "main.js": "/react-Itinerary-app/static/js/main.ee53db2f.js",
+    "index.html": "/react-Itinerary-app/index.html",
+    "main.eab3724d.css.map": "/react-Itinerary-app/static/css/main.eab3724d.css.map",
+    "main.ee53db2f.js.map": "/react-Itinerary-app/static/js/main.ee53db2f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eab3724d.css",
+    "static/js/main.ee53db2f.js"
+  ]
+}
